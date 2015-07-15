@@ -7,4 +7,11 @@
   * Class organization
   * element organization
 
--
+- How to organize within each element
+  * position
+  * size
+  * margin
+  * padding
+  * background
+  * text
+  * color
