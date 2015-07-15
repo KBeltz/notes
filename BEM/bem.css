@@ -1,0 +1,19 @@
+generic {
+  /*tags like body, h2, etc. */
+}
+
+fonts {
+  /*font styles*/
+}
+
+elements_in_order {
+  /*order id/class tags top to bottom as they are laid out on the page */
+  /*position: absolute;
+  size
+  variations belong below the more general styles
+  margin: auto;
+  padding: inherit;
+  background:
+  text
+  color*/
+}
