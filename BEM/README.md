@@ -1,6 +1,6 @@
 #Readable class
 
-(BEM Syntax)[http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/]
+[BEM Syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 
 - Three steps to create cleaner code
   * Better class names
